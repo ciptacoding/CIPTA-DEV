@@ -37,7 +37,7 @@ const App = () => {
                <div className="flex items-center flex-col">
                   <div>
                      <img
-                        src="./src/assets/cipta.png"
+                        src="./assets/cipta.png"
                         alt="Profile"
                         className="rounded-full aspect-square h-28 object-top object-cover"
                      />
